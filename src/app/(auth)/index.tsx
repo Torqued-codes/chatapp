@@ -46,7 +46,7 @@ const AuthScreen = () => {
 
             <View className="items-center px-6 mt-4">
                 <Image
-                    source={require("@assets/images/auth.png")}
+                    source={require("../../../assets/images/auth.png")}
                     style={{width:300, height:400}}
                     contentFit="cover"
                 />

@@ -35,6 +35,14 @@
             "imageWidth": 76
           }
         }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "torq-chat-app",
+          "organization": "torq-0w"
+        }
       ]
     ],
     "experiments": {
